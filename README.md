@@ -5,4 +5,6 @@ The aim of this project is to code a C library regrouping usual functions that w
 
 ### 💻 How to Run
 
+```command
 make
+```
